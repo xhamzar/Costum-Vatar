@@ -1,0 +1,6 @@
+{
+  "name": "Malang Atelier — Avatar Costume & Cardigan Asset Studio",
+  "description": "Interactive 2D chibi avatar dress-up studio and exportable web costume asset generator featuring the One-Shoulder Slouchy Cardigan collection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
